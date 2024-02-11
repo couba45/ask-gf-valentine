@@ -34,7 +34,7 @@ function App() {
   }
 
   return (
-    <div className="App flex-col items-center justify-center h-screen">
+    <div className=" flex-col items-center justify-center h-screen">
       {yesPressed ? (
         <>
           <div className="w-screen flex items-center justify-center">
